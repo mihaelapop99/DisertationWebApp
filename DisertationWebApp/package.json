@@ -1,0 +1,15 @@
+{
+  "name": "disertationwebapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
